@@ -1,0 +1,21 @@
+{
+   "criteria": {
+      "item": {
+         "trigger": "minecraft:using_item",
+         "conditions": {
+            "item": {
+               "items": "minecraft:leather_horse_armor",
+               "components": {
+                  "minecraft:custom_data": {
+                     "magic_flute": true
+                  }
+               }
+            }
+         }
+      }
+   },
+   "rewards": {
+      "function": "magic_flute:flute/check_can_use"
+   }
+}
+

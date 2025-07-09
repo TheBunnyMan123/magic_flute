@@ -1,0 +1,36 @@
+{
+   "type": "minecraft:crafting_shaped",
+   "category": "equipment",
+   "show_notification": true,
+   "pattern": [
+      "LSG"
+   ],
+   "key": {
+      "L": "#minecraft:logs",
+      "S": "minecraft:nether_star",
+      "G": "minecraft:glowstone_dust"
+   },
+   "result": {
+      "id": "minecraft:leather_horse_armor",
+      "count": 1,
+      "components": {
+         "minecraft:item_model": "magic_flute:flute",
+         "minecraft:item_name": "Magic Flute",
+         "minecraft:rarity": "epic",
+         "minecraft:consumable": {
+            "consume_seconds": 999999999,
+            "has_consume_particles": false,
+            "has_consume_sound": false
+         },
+         "minecraft:custom_data": {
+            "magic_flute": true
+         },
+         "minecraft:tooltip_display": {
+            "hidden_components": [
+               "attribute_modifiers"
+            ]
+         }
+      }
+   }
+}
+

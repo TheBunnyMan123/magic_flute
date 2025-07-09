@@ -1,0 +1,7 @@
+{
+   "function": "minecraft:set_damage",
+   "conditions": [],
+   "damage": -1,
+   "add": true
+}
+

@@ -1,0 +1,11 @@
+{
+   "providers": [
+      {
+         "type": "bitmap",
+         "file": "magic_flute:font/ui.png",
+         "height": 32,
+         "chars": ["abc012345"],
+         "ascent": 31
+      }
+   ]
+}

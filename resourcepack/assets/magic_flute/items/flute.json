@@ -1,0 +1,9 @@
+{
+   "hand_animation_on_swap": true,
+   "oversized_in_gui": false,
+   "model": {
+      "type": "minecraft:model",
+      "model": "magic_flute:flute"
+   }
+}
+
